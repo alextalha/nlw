@@ -1,0 +1,67 @@
+
+npm init -y  => cria o package json sem solicitar 
+
+code . => abrir o vscode pelo terminal
+
+
+npm install express
+
+
+npm install @types/express -D
+
+npm install ts-node -D
+
+npm install typescript -D
+
+npm install ts-node-dev -D
+
+
+npx executar uma bin de istalado. 
+
+ex:
+
+npx ts-node src/server.ts
+
+npx tsc --init => criar o tsconfig 
+
+
+json viewer
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=pt-BR
+
+
+
+
+==================================================================================================================
+
+
+>>>>>>  dia 2  <<<<<<<<
+
+foco, prática , grupo 
+
+conhecer pessoas 
+compartilhe conhecimento 
+como pode melhorar a aplicação
+
+
+explicando conceitos 
+
+
+* rotas e recursos 
+
+rotas
+localhost:3333/users => rota 
+                ^  recurso
+
+
+
+na maioria das aplicações na maioria das aplicações comerciais é utilizado o sql  
+usaremos o sqlite 
+
+
+
+usaremos o knex.js ele é uma interface para banco sql com linguagem unificada
+
+knex.js
+
+
+
